@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title> Kamili S's Portfolio</title>
+    </head>
+    <body>
+          <div class="banner">
+           <div class ="title">
+                <h1> Kamili Knows</h1>
+    
+    </div>div>
+    <div class ="nav">
+       <ul>    
+                        
+       <li><a href="index.html">Home</a></li>
+       <li><a href ="resume.html">Resume</a></li>
+                  
+            </ul>
+        
+        </div>
+    
+    <div class="about-me">
+         <div class="profile">
+               <div class="profile-pic">
+                 <img src="images/roshi.jpg" width="200px"/>
+         </div> 
+         <div class="social-media">
+               <ul>
+               
+                      <li><a href="https://www.linkedin.com/in/kamili-saintleger-bab0371b9/">LinkedIn</a></li>
+                      <li><a href="https://github.com/Springbeann">Github</a></li>
+       <div class="career">
+                     <div class="goals">
+                          <h1>My Goals</h1>
+                             <p>My career goals are to learn computer science,
+                          Study as hard as I can, and bring new life to the field with AI programming and research.</p>
+                           
+                             </div>
+                             <div class="skills">
+                                  <h1>My Skills</h1>
+                                <ul>
+                                <li>
+                </ul>
+                
+             </div>
+             <div class ="about-me-text">
+                      <p>Hi, I'm kamili! I am passionate about programming, and computer science in general. 
+                       Hardware! Software! You name it, I'm interested.</p> 
+              </div>
+    
+    </div>
+    
+</body>
+</html>
+    
+  
